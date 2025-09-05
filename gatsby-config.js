@@ -23,16 +23,16 @@ module.exports = {
         link: 'https://github.com/law-wwy/priv-inv-sym',
       },
       {
-        name: 'TravelLog',
+        name: 'Gym Managment System',
         description:
-          'A personal travel diary to record trips, photos, and expenses in one place',
-        link: 'https://github.com/law-wwy/travellog',
+          'A system to manage gym memberships, track attendance, and organize trainer schedules efficiently',
+        link: 'https://github.com/law-wwy/Bagaporo',
       },
       {
         name: 'Landslidieee',
         description:
           'A software designed to send signals to people near the possible landslide areas',
-        link: 'https://github.com/RyanFitzgerald/landslidieee',
+        link: 'https://github.com/law-wwy/landslidieee',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
