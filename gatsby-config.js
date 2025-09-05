@@ -17,23 +17,20 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Privado Inventory Management System',
+        name: 'Robotilapia',
         description:
-          'An inventory system for a sari-sari store with the ability to track expiration dates',
+          'A fish monitoring system focused on tilapia fishes that has feeding mechanism',
         link: 'https://github.com/law-wwy/priv-inv-sym',
+        image: '/images/robofish.png'
       },
       {
-        name: 'Gym Managment System',
+        name: 'Kudo Gym App',
         description:
           'A system to manage gym memberships, track attendance, and organize trainer schedules efficiently',
         link: 'https://github.com/law-wwy/Bagaporo',
+        image: '/images/gym.png'
       },
-      {
-        name: 'Landslidieee',
-        description:
-          'A software designed to send signals to people near the possible landslide areas',
-        link: 'https://github.com/law-wwy/landslidieee',
-      },
+
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
