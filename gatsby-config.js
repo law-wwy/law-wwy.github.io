@@ -3,56 +3,54 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://monumental-chimera-b1ace3.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Yrral-Ben M. Rosales',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Yrral-Ben M. Rosales | Software Engineer | Web Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Developer, Problem Solver, Curious, Lifelong learner`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@lawwy`,
     // Optional: Github account URL
-    github: `https://github.com/RyanFitzgerald`,
-    // Optional: LinkedIn account URL
-    linkedin: `https://github.com/RyanFitzgerald/devfolio`,
+    github: `https://github.com/law-wwy`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Aspiring Web developer with a strong foundation in front-end and back-end technologies. Enthusiastic about creating responsive, user-friendly, and innovtive web applications.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Privado Inventory Management System',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'An inventory system for a sari-sari store with the ability to track expiration dates',
+        link: 'https://github.com/law-wwy/priv-inv-sym',
       },
       {
-        name: 'ExtensionKit',
+        name: 'TravelLog',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://extensionkit.io/?ref=devfolio',
+          'A personal travel diary to record trips, photos, and expenses in one place',
+        link: 'https://github.com/law-wwy/travellog',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Landslidieee',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A software designed to send signals to people near the possible landslide areas',
+        link: 'https://github.com/RyanFitzgerald/landslidieee',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'AmaCENG Corp',
+        description: 'Network Engineer, December 2023 - Present',
+        link: 'https://github.com/law-wwy/devfolio',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Dagok Corp',
+        description: 'Back-end Developer, May 2020 - November 2023',
+        link: 'https://github.com/law-wwy/devfolio',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Humunguos',
+        description: 'Front-end Developer, February 2018- December 2019',
+        link: 'https://github.com/law-wwy/devfolio',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +58,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript , C++, C, Node.js, Express.js, React.js, PHP',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MongoDB,  MySQL',
       },
       {
-        name: 'Other',
+        name: 'Soft Skills',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Team Player, Active Listen, Attitude & Work Ethic, Empathy',
       },
     ],
   },
